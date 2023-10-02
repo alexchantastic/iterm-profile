@@ -11,4 +11,4 @@ Profile configuration for [iTerm](https://iterm2.com/)
 
 ## Colors
 
-Color theme is sourced from [MartinSeeler/iterm2-material-design](https://github.com/MartinSeeler/iterm2-material-design)
+Color theme is sourced from [catppuccin/iterm](https://github.com/catppuccin/iterm)
